@@ -5,7 +5,7 @@
 <!--
  
     LEVITATING - NETWORK PAGE
-        by missace123 @ tumblr
+        by yeinnefer @ tumblr
         
             - do not steal any parts of this code
             - do not dare to touch the credit
@@ -342,10 +342,10 @@ title {
 <div id="header">
 
 <!-- display title -->
-<div class="blogtitle"><a href="/">levitating</a></div>
+<div class="blogtitle"><a href="/">title</a></div>
 
 <!-- optional description -->                  
-<p><div class="description">click on one of the names to get the code.</div></p>
+<p><div class="description">optional description goes here.</div></p>
 
 <!-- icons can be found at https://fontawesome.com/icons -->
 
